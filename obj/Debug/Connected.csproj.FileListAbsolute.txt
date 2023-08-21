@@ -1,0 +1,8 @@
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 07\Connected\Connected\bin\Debug\Connected.exe.config
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 07\Connected\Connected\bin\Debug\Connected.exe
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 07\Connected\Connected\bin\Debug\Connected.pdb
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 07\Connected\Connected\obj\Debug\Connected.csproj.AssemblyReference.cache
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 07\Connected\Connected\obj\Debug\Connected.csproj.SuggestedBindingRedirects.cache
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 07\Connected\Connected\obj\Debug\Connected.csproj.CoreCompileInputs.cache
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 07\Connected\Connected\obj\Debug\Connected.exe
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 07\Connected\Connected\obj\Debug\Connected.pdb
